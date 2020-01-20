@@ -35,7 +35,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>3P1yVtMAP31iyMAaPo4NlY9kZlY=</dsig:DigestValue>
+        <dsig:DigestValue>q/21HYkRM/lsBg2OLFSIfWgOqks=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -55,15 +55,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>C1hw2O7LordPAwMgiedwFLqy7dA=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="UZCmd.bat" size="111">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>qGEOw7ekz1p3T0NaMHuTZffeeII=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

@@ -4,14 +4,14 @@
   <description asmv2:publisher="FileLister" asmv2:product="FileLister" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="FileLister.exe.manifest" size="3391">
+    <dependentAssembly dependencyType="install" codebase="FileLister.exe.manifest" size="3023">
       <assemblyIdentity name="FileLister.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>CqE+18wXSm12fXqOxID1s1g5qh0=</dsig:DigestValue>
+        <dsig:DigestValue>wTI0QhY17xMiwhi7Jggz39dAopQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

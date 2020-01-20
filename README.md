@@ -18,6 +18,10 @@ Some executables have a .Net dependancy.
 
 ### Cloning:
 ---------------
+<<<<<<< HEAD
 Clone this repository into the **Measurement Computing** directory. Depending on the version of Windows, the **Measurement Computing** directory will be in either the **'Public Documents'** or **'Program Files (x86)'** directory.
+=======
+Install the Measurement Computing Universal Library. For development, clone this repository into the **Measurement Computing** directory. Depending on the version of Windows, the **Measurement Computing** directory will be in either the **'Public Documents'** or **'Program Files (x86)'** directory.
+>>>>>>> 3dbc59aa5b056af1477bc13c505d29c564830100
 
 

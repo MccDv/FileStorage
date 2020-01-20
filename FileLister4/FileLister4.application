@@ -7,7 +7,7 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="FileLister4.exe.manifest" size="4889">
+    <dependentAssembly dependencyType="install" codebase="FileLister4.exe.manifest" size="4521">
       <assemblyIdentity name="FileLister4.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
     </dependentAssembly>
   </dependency>

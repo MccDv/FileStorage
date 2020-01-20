@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FileLister4.exe" size="186880">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FileLister4.exe" size="179200">
       <assemblyIdentity name="FileLister4" version="1.4.2.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>8woEfSXgntYIDJZaWJ/sBbrCcpE=</dsig:DigestValue>
+        <dsig:DigestValue>bjrf0Wr9/XG3VJm91kRR55j89ls=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,15 +62,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>C1hw2O7LordPAwMgiedwFLqy7dA=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="UZCmd.bat" size="111">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>qGEOw7ekz1p3T0NaMHuTZffeeII=</dsig:DigestValue>
     </hash>
   </file>
   <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">

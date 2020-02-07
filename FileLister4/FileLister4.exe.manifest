@@ -4,7 +4,7 @@
   <description asmv2:iconFile="MC.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="FileLister4" version="1.4.2.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="FileLister4" version="1.4.3.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="FileLister4.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,18 +43,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FileLister4.exe" size="179200">
-      <assemblyIdentity name="FileLister4" version="1.4.2.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FileLister4.exe" size="179712">
+      <assemblyIdentity name="FileLister4" version="1.4.3.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>bjrf0Wr9/XG3VJm91kRR55j89ls=</dsig:DigestValue>
+        <dsig:DigestValue>+UqBVDFWUM0pTxU8DbdVCNb6gtg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="FileLister4.exe.config" size="30549" />
+  <file name="FileLister4.exe.config" size="30721" />
   <file name="MC.ico" size="3262">
     <hash>
       <dsig:Transforms>

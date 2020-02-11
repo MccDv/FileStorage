@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FileLister4.exe" size="179712">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FileLister4.exe" size="180224">
       <assemblyIdentity name="FileLister4" version="1.4.3.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>+UqBVDFWUM0pTxU8DbdVCNb6gtg=</dsig:DigestValue>
+        <dsig:DigestValue>KvRHMuovtLm57lQBEpumKt3/+FI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

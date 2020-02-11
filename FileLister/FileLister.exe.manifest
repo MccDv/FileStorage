@@ -4,7 +4,7 @@
   <description asmv2:iconFile="MC.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="FileLister" version="1.4.2.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="FileLister" version="1.4.3.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="FileLister.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -29,23 +29,23 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FileLister.exe" size="196608">
-      <assemblyIdentity name="FileLister" version="1.4.2.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="FileLister" version="1.4.3.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>q/21HYkRM/lsBg2OLFSIfWgOqks=</dsig:DigestValue>
+        <dsig:DigestValue>tK6M4/o2EirRa/hE6kfNd/Y/eEA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="FileLister.exe.config" size="29620">
+  <file name="FileLister.exe.config" size="29734">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>R0O34Oh/s/ghaDSMKUlTfDgpX+Q=</dsig:DigestValue>
+      <dsig:DigestValue>qfBReXUiZto+VuU1rDrxEZz+Big=</dsig:DigestValue>
     </hash>
   </file>
   <file name="MC.ico" size="3262">
